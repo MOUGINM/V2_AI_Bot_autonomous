@@ -21,6 +21,8 @@ Pour utiliser ce bot efficacement, suivez ces étapes :
    access_token_secret = "VotreAccessTokenSecret"
    openai_key = "VotreOpenAIKey"
 
+test make with gpt3.5 
+
 ## Génération d'un article sur: Intelligence Artificielle
 
 **Titre :** *L'intelligence artificielle : l'évolution technologique qui façonne notre avenir.*
