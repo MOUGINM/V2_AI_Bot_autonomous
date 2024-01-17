@@ -13,20 +13,6 @@ auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token, access_token_secret)
 api = tweepy.API(auth)
 
-# --- Récupération des Tendances Twitter ---
-faux_tendances_twitter = [
-    "Intelligence Artificielle",
-    "Nouvelles Technologies",
-    "Développement Durable",
-    "Économie Numérique",
-    "Santé et Innovation",
-    "Espace et Exploration",
-    "Changement Climatique",
-    "Cryptomonnaies",
-    "Réalité Virtuelle",
-    "Jeux Olympiques"
-]
-
 def generate_article(topic):
     prompt = f"Écris un article détaillé et engageant sur {topic}."
     try:
