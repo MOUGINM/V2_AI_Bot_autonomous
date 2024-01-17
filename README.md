@@ -12,6 +12,7 @@ Pour utiliser ce bot efficacement, suivez ces étapes :
    - Obtenez vos clés API Twitter et OpenAI.
    - Créez un fichier nommé `key.py` et placez-y vos clés API comme indiqué ci-dessous :
 
+
    ```python
    # Fichier key.py
    consumer_key = "VotreConsumerKey"
