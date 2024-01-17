@@ -1,17 +1,6 @@
-import tweepy
 import openai
 from key import *
-# --- Paramètres Twitter API ---
-consumer_key = consumer_key
-consumer_secret = consumer_secret
-access_token = access_token
-access_token_secret = access_token_secret
 openai.api_key = openai_key
-
-# --- Authentification Twitter API ---
-auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
-auth.set_access_token(access_token, access_token_secret)
-api = tweepy.API(auth)
 
 def generate_article(topic):
     prompt = f"Écris un article détaillé et engageant sur {topic}."
