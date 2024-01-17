@@ -21,7 +21,7 @@ Pour utiliser ce bot efficacement, suivez ces étapes :
    access_token_secret = "VotreAccessTokenSecret"
    openai_key = "VotreOpenAIKey"
 
-test make with gpt3.5 
+test with gpt3.5 
 
 ## Génération d'un article sur: Intelligence Artificielle
 
