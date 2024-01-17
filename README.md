@@ -1,8 +1,8 @@
-# V2_AI_Bot_autonomous
+# V2_AI_Bot_blog_autonomous
 
 ## Résumé
 
-Le V2_AI_Bot_autonomous est un bot intelligent qui combine les API Twitter et OpenAI pour générer automatiquement des articles sur des sujets d'actualité. En captant les tendances sur Twitter et en utilisant les capacités avancées de l'IA pour la création de contenu, ce bot offre une approche novatrice et efficace pour la production automatique d'articles pertinents et informatifs.
+Le V2_AI_Bot_blog_autonomous est un bot intelligent qui combine les API Twitter et OpenAI pour générer automatiquement des articles sur des sujets d'actualité. En captant les tendances sur Twitter et en utilisant les capacités avancées de l'IA pour la création de contenu, ce bot offre une approche novatrice et efficace pour la production automatique d'articles pertinents et informatifs.
 
 ## Conseils d'Utilisation
 
