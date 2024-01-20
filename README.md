@@ -9,7 +9,7 @@ Le V2_AI_Bot_blog_autonomous est un bot intelligent qui combine les API Twitter 
 Pour utiliser ce bot efficacement, suivez ces étapes :
 
 1. **Configuration des Clés API** :
-   - Obtenez vos clés API Twitter et OpenAI.
+   - Placez vos clés API Twitter et OpenAI.
 
 
    ```python
