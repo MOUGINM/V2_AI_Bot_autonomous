@@ -1,4 +1,4 @@
-# V2_AI_Bot_blog_autonomous 📰
+# V2_AI_Bot_blog_autonomous 
 
 ## Résumé 📝
 
