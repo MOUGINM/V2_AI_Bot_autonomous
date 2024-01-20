@@ -22,7 +22,7 @@ def get_trending_topics():
     return trending_topics[:5]  # Retourne les 5 premiers sujets tendance
 
 def generate_article(topic):
-    prompt = f"Écris un article détaillé et engageant sur {topic}."
+    prompt = f"Écris un article engageant et détaillé sur {topic}."
     try:
         response = openai.Completion.create(
             model="text-davinci-003",  # Utilise un modèle de complétion standard
